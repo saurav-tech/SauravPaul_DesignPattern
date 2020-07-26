@@ -1,0 +1,6 @@
+com\pattern\Pattern.class
+com\pattern\Circle.class
+com\pattern\Rectangle.class
+com\pattern\Shape.class
+com\pattern\Square.class
+com\app\App.class
